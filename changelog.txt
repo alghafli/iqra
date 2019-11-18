@@ -1,0 +1,13 @@
+0.1.0:
+    - initial release.
+0.1.1:
+    - remove csv files from translations since po and mo files are used.
+    - remove old gui service.
+    - modify generate tags gui.
+    - per service versioning.
+1.0.0:
+    - remove services system.
+    - convert the program into an importable library.
+    - implement plugin system.
+    - implement command system.
+
